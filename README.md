@@ -25,25 +25,13 @@ Feature
 
 Description
 
-🎭 Dynamic Levels
-
-Procedurally placed cubes & traps for replayability.
-
 ⏳ Timer-Based Challenge
 
 Beat the clock to set high scores!
 
-⚠️ Trap System
-
-Avoid hidden traps that slow you down or reset progress.
-
 📊 Database Integration
 
 Save high scores, player stats & settings.
-
-🎚️ Custom Settings
-
-Adjust difficulty, sound & controls.
 
 🎵 Engaging Soundtrack
 
@@ -71,11 +59,7 @@ Data is loaded on startup for a seamless experience.
 
 🏆 Winning & Losing
 
-✅ Win Condition: Collect all cubes within the time limit.❌ Lose Condition: Time runs out, or you fall into too many traps.
+✅ Win Condition: Collect all cubes within the time limit. ❌ Lose Condition: Time runs out, or you fall into too many traps.
 
-📜 License
 
-This project is distributed under the MIT License.
-
-Can you collect them all before time runs out? Challenge yourself now! 🚀
 
