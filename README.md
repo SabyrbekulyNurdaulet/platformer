@@ -1,2 +1,2 @@
 # platformer
-platformer with bd
+platformer with database
